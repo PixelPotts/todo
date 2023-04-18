@@ -1,6 +1,17 @@
-# todo
+# Todo App
 
-Step 1: Clone the project.
-Step 2: Run `pyinstaller --onefile --noconsole todo_app.py`
-Step 3: The file should now be indexed by your OS as Todo App. If not, you 
-can find it manually in the `dist` folder.
+A simple Todo List App built with Python and Tkinter.
+
+## Installation
+
+Follow these steps to get the Todo App up and running:
+
+### Step 1: Clone the project
+git clone https://github.com/your_username/todo_app.git
+cd todo_app
+
+### Step 2: Run PyInstaller
+pyinstaller --onefile --noconsole todo_app.py
+
+### Step 3: Run the app
+The file should now be indexed by your OS as Todo App. If not, you can find it manually in the `dist` folder.
